@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+* Life favorites
+  * Music
+  * Son
+  * Wife
+
+- Tech Favorites
+    - Mongodb
+    - Angular
+    - Nodejs
+    
+    
